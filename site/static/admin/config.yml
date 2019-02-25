@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: eltmanm/Portfolio_M_Eltman # Path to your Github repository
-  branch: master # Branch to update (master by default)
+  branch: Editing_Branch # Branch to update (master by default)
 
 publish_mode: editorial_workflow
 
