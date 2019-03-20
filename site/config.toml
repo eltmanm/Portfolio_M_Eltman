@@ -1,6 +1,6 @@
 baseurl = "."
 languageCode = "en-us"
-title = "Hyde"
+title = "Projects by Mike"
 theme = "hyde"
 
 [params]
