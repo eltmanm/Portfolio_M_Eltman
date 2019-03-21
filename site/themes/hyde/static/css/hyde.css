@@ -249,10 +249,10 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 /* Purple */
-.theme-base-10 .sidebar {
+.theme-base-07 .sidebar {
   background-color: #91177a;
 }
-.theme-base-10 .content a,
-.theme-base-10 .related-posts li a:hover {
+.theme-base-07 .content a,
+.theme-base-07 .related-posts li a:hover {
   color: #91177a;
 }
